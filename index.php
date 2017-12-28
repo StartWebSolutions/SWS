@@ -1,5 +1,4 @@
 <?php
-<?php
 /**
 * Plugin Name: Start Web Solution magic
 * Plugin URI: https://www.startwebsolutions.ro/
@@ -8,5 +7,21 @@
 * Author: Start Web Solutions
 * Author URI: https://www.startwebsolutions.ro/
 * License: GPLv2 or later
+*/
+
+/*
+HELPERS(don't delete and keep commented)
+
+// Add Shortcode
+add_shortcode( 'sws_custom_shortcode', 'sws_shortcode' );
+function sws_shortcode() {
+	return '';
+}
+
+//Add hook
+add_action ('wp_footer','add_some_scripts');
+function add_some_scripts() {
+	return '';
+}
 */
 ?>
