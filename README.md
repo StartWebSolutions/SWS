@@ -1,2 +1,2 @@
 # sws
-sws default
+Custom WP plugin by Start Web Solutions

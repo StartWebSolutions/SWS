@@ -12,6 +12,8 @@
 /*
 HELPERS(don't delete and keep commented)
 
+Lookie here: https://generatewp.com/generator/
+
 // Add Shortcode
 add_shortcode( 'sws_custom_shortcode', 'sws_shortcode' );
 function sws_shortcode() {
